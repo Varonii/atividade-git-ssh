@@ -1,2 +1,4 @@
 Olá, este é um arquivo da atividade insana de git!
 Meu nome é Thiago Varoni
+
+Nesta atividade eu nao sei o que aprendi ainda, pq to no meio dela. Mas criamos o repositorio e nao demos git pull
