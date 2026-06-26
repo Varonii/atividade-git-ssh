@@ -4,3 +4,5 @@ Meu nome é Thiago Varoni
 Nesta atividade eu nao sei o que aprendi ainda, pq to no meio dela. Mas criamos o repositorio e nao demos git pull
 
 Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
+
+Wow!! Agora eu to mexendo pelo PC denovo, e não pelo github, essa atividade é insana mesmo..
